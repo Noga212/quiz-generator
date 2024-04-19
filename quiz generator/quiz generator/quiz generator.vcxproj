@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="quiz generator.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="listener.h" />
+    <ClInclude Include="question.h" />
+    <ClInclude Include="quiz.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
