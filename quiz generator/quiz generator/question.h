@@ -1,38 +1,31 @@
 #pragma once
 #include <string>
 #include <vector>
+#include <iostream>
 
 
 class Question
 {
 public:
-	Question(std::string question, std::vector<std::string> answersVector,
-		int Correct) :
-		theQuestion(question), answers(answersVector), CorrectAnswerNumber(Correct)
-	{};
+	
 
-	const std::string& getQuestion()
-	{
-		return theQuestion;
-	};
+	const std::string& getQuestion();
 
-	std::vector <std::string>& getAnswers()
-	{
-		return answers;
-	};
+	std::vector <std::string>& getAnswers();
 
-	const int GetCorrectNumber()
-	{
-		return CorrectAnswerNumber;
-	};
+	const int getCorrectNumber();
 
-	std::string& getCorrectAnswer()
-	{
-		return answers[CorrectAnswerNumber -1];
-	};
+	std::string& getCorrectAnswer();
+
+	void setTheQuestion(std::string questionToSet);
+
+	void insertAnswer(std::string answer);
+	void setCorrectAnswer(char correctAnswer);
+	void printAnswers();
+
 
 private:
-	const std::string theQuestion;
+	std::string theQuestion;
 	std::vector <std::string> answers;
-	const int CorrectAnswerNumber;		//the number of the correct answer, its index is -1.
+	int CorrectAnswerNumber;		//the number of the correct answer, its index is -1.
 };
