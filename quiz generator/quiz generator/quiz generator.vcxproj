@@ -127,10 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="listener.cpp" />
+    <ClCompile Include="question.cpp" />
     <ClCompile Include="quiz generator.cpp" />
+    <ClCompile Include="quiz.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="listener.h" />
+    <ClInclude Include="parser.h" />
     <ClInclude Include="question.h" />
     <ClInclude Include="quiz.h" />
   </ItemGroup>
