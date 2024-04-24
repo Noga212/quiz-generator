@@ -1,0 +1,73 @@
+What is the capitol of Israel?
+2
+Berlin
+Jerusalem
+Paris
+
+What is the best programming language?
+3
+c++
+c
+depends on the project
+python
+java
+
+What is the capital of France?
+3
+London
+Berlin
+Paris
+
+What is the largest planet in our solar system?
+2
+Mars
+Jupiter
+Earth
+
+Who wrote "Romeo and Juliet"?
+1
+William Shakespeare
+Charles Dickens
+Jane Austen
+
+What is the chemical symbol for gold?
+3
+Go
+Ag
+Au
+
+What is the tallest mountain in the world?
+2
+Mount Kilimanjaro
+Mount Everest
+Mount Fuji
+
+Which continent is the most populous?
+2
+Europe
+Asia
+Africa
+
+Who painted the Mona Lisa?
+1
+Leonardo da Vinci
+Michelangelo
+Vincent van Gogh
+
+What is the main ingredient in guacamole?
+2
+Tomatoes
+Avocado
+Onions
+
+What is the boiling point of water in Celsius?
+1
+100°C
+0°C
+50°C
+
+What is the capital of Brazil?
+3
+Buenos Aires
+Rio de Janeiro
+Brasília
