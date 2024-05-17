@@ -129,7 +129,7 @@
   <ItemGroup>
     <ClCompile Include="listener.cpp" />
     <ClCompile Include="question.cpp" />
-    <ClCompile Include="quiz generator.cpp" />
+    <ClCompile Include="quizGenerator.cpp" />
     <ClCompile Include="quiz.cpp" />
   </ItemGroup>
   <ItemGroup>
